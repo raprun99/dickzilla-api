@@ -24,9 +24,7 @@
     "description": "Amanda the Adventurer je nezávislá hororová hra z pohledu první osoby, která se tváří jako nevinný dětský pořad z 90. let, ale ve skutečnosti skrývá temné a znepokojivé tajemství.",
     "aboutTranslation": "Kompletní česká lokalizace.",
     "zipUrl": "https://github.com/TVŮJ_GITHUB_JMÉNO/TVŮJ_REPO/raw/main/amanda_cz.zip"
-  }
-]
-[
+  },
   {
     "id": 2,
     "title": "Indigo Park",
@@ -36,7 +34,7 @@
     "thumbUrl": "https://files.catbox.moe/6ezvjs.png",
     "bannerUrl": "https://files.catbox.moe/3lqq17.jpg",
     "logoUrl": "https://files.catbox.moe/gmpy0m.png",
-    "category": "#adventury", "#horory",
+    "category": "#adventury, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "124 MB",
