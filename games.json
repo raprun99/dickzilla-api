@@ -395,9 +395,9 @@
     "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
-    "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/icon.jpg",
-    "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/heroes.jpg",
-    "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/logo.png",
+    "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinCZ/icon.jpg",
+    "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinCZ/heroes.jpg",
+    "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinCZ/logo.png",
     "category": "#adventury, #logické",
     "author": "DickzillaTranslator",
     "platform": "Steam",
@@ -413,7 +413,7 @@
     },
     "description": "Darwin's Paradox! je filmová akční adventura, ve které hrajete za Darwina, geniální chobotnici unesenou z oceánu do tajemného industriálního komplexu.",
     "aboutTranslation": "Kompletní česká lokalizace.",
-    "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/DarwinParadox.zip"
+    "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinCZ/DarwinParadox.zip"
   },
   {
     "id": 17,
