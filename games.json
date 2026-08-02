@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Somber Echoes",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SomberEchoesCZ/Logo.png",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "title": "Scholar's Mate",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/ScholarsMateCZ/icon.jpg",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "title": "Spirit City: Lofi Sessions",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SpiritCityCZ/icon.jpg",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "title": "Song of Nunu: A League of Legends Story",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SongofNunuCZ/icon.jpg",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "title": "Stray Gods",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/StrayGodsCZ/icon.png",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "title": "Tails Noir: Prologue",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TailsNoirCZ/icon.png",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "title": "Twelve Minutes",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TwelveMinutesCZ/icon.png",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "title": "KARMA - The Dark World",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TDWCZ/icon.png",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "title": "Stray",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/StrayCZ/icon.png",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "title": "Finding Frankie",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/FindingFrankieCZ/icon.jpg",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "title": "Untold Memories: Potter's Field",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/UntoldCZ/icon.png",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "title": "The Occultist",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TheOccultistCZ/icon.jpg",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "title": "Amanda the Adventurer 1-3",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/AmandatheAdventurerCZ/icon.jpg",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "title": "Subliminal",
-    "version": "0.1",
+    "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SubliminalCZ/icon.jpg",
