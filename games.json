@@ -11,7 +11,7 @@
     "category": "#adventury",
     "author": "DickzillaTranslator",
     "platform": "Steam",
-    "size": "3.5 MB",
+    "size": "3.5 MB", 
     "downloads": "0",
     "created": "Dnes",
     "updated": "Dnes",
@@ -25,56 +25,4 @@
     "aboutTranslation": "Kompletní česká lokalizace.",
     "zipUrl": "https://github.com/TVŮJ_GITHUB_JMÉNO/TVŮJ_REPO/raw/main/amanda_cz.zip"
   },
-  {
-    "id": 2,
-    "title": "Indigo Park",
-    "version": "1.0.0",
-    "status": "Hotovo",
-    "progress": 100,
-    "thumbUrl": "https://files.catbox.moe/6ezvjs.png",
-    "bannerUrl": "https://files.catbox.moe/3lqq17.jpg",
-    "logoUrl": "https://files.catbox.moe/gmpy0m.png",
-    "category": "#adventury, #horory",
-    "author": "DickzillaTranslator",
-    "platform": "Steam",
-    "size": "124 MB",
-    "downloads": "0",
-    "created": "02.08.2026",
-    "updated": "02.08.2026",
-    "translationProgress": {
-      "text": 100,
-      "editing": 100,
-      "fonts": 100,
-      "textures": 100
-    },
-    "description": "Indigo Park je nezávislá hororová hra z pohledu první osoby (tzv. mascot horror), ve které prozkoumáváte opuštěný a zchátralý zábavní park.",
-    "aboutTranslation": "Kompletní česká lokalizace.",
-    "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/%C4%8De%C5%A1tina/Indigo.Park.zip"
-  },
-  {
-    "id": 3,
-    "title": "Poppy Playtime - Kapitola 1-5 CZ",
-    "version": "1.0.7",
-    "status": "Hotovo",
-    "progress": 100,
-    "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Games_cs/512x512.png",
-    "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Games_cs/68bd45ecb8a1f7734cb230d54b0e38ad.png",
-    "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Games_cs/5cb945122356064d61ec55d6ec65a29a.png",
-    "category": "#adventury, #horory",
-    "author": "DickzillaTranslator",
-    "platform": "Steam",
-    "size": "178 MB",
-    "downloads": "0",
-    "created": "15.1.2026",
-    "updated": "12.7.2026",
-    "translationProgress": {
-      "text": 100,
-      "editing": 100,
-      "fonts": 100,
-      "textures": 100
-    },
-    "description": "Poppy Playtime je hororová videohra. Hráč je bývalý zaměstnanec. Cílem je prozkoumat opuštěnou továrnu na hračky společnosti Playtime Co. Hráč zjišťuje, co se stalo s pohřešovanými kolegy.",
-    "aboutTranslation": "Kompletní česká lokalizace.",
-    "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Games_cs/Poppy_Playtime.zip"
-  }
-]
+ 
