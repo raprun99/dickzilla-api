@@ -8,7 +8,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SomberEchoesCZ/Logo.png",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SomberEchoesCZ/background.png",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SomberEchoesCZ/Logo.png",
-    "category": "#adventury", "#horory",
+    "category": "#adventury, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "92.1 KB", 
@@ -34,7 +34,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/ScholarsMateCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/ScholarsMateCZ/hero.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/ScholarsMateCZ/logo.png",
-    "category": "#logické", "#horory",
+    "category": "#logické, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "30.4 KB", 
@@ -60,7 +60,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SpiritCityCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SpiritCityCZ/heroes.png",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SpiritCityCZ/logo.png",
-    "category": "#simulátory", "#modifikace",
+    "category": "#simulátory, #modifikace",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "62.8 KB", 
@@ -73,7 +73,7 @@
       "fonts": 100,
       "textures": 100
     },
-    "description": "Hra Scholar's Mate (Mistrovský mat) je především hororová hra z pohledu první osoby ve stylu escape room.",
+    "description": "Spirit City: Lofi Sessions je gamifikovaný nástroj zaměřený na soustředění, relaxaci a útulnou atmosféru s lofi hudbou.",
     "aboutTranslation": "Kompletní česká lokalizace.",
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SpiritCityCZ/Spirit.City.Lofi.Sessions.zip"
   },
@@ -86,7 +86,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SongofNunuCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SongofNunuCZ/heroes.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SongofNunuCZ/logo.png",
-    "category": "#adventury", "#logické",
+    "category": "#adventury, #logické",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "106 KB", 
@@ -155,7 +155,7 @@
     "aboutTranslation": "Kompletní česká lokalizace.",
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TailsNoirCZ/Tails.Noir.Prologue.zip"
   },
-    {
+  {
     "id": 7,
     "title": "Twelve Minutes",
     "version": "0.1",
@@ -190,7 +190,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TDWCZ/icon.png",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TDWCZ/heroes.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TDWCZ/logo.png",
-    "category": "#survival", "#horory",
+    "category": "#survival, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "241 MB", 
@@ -216,7 +216,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/StrayCZ/icon.png",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/StrayCZ/heroes.png",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/StrayCZ/logo.png",
-    "category": "#dobrodružné", "#adventury",
+    "category": "#dobrodružné, #adventury",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "87.9 KB", 
@@ -230,10 +230,10 @@
       "textures": 100
     },
     "description": "Stray je originální adventura, kde hrajete za toulavou kočku, která se snaží najít cestu domů do světa obydleného pouze roboty.",
-    "aboutTranslation": "Čeština od Lokalizace.Net z verzi: v1.3.9 (Chybí pár překladu češtin, potřeba přepnou na PL jazyk). Moje čeština: (Kompletní přeložená hra, není třeba přepínat jazyky, hra automaticky načte CZ jazyk)",
+    "aboutTranslation": "Čeština od Lokalizace.Net z verze: v1.3.9 (Chybí pár překladů češtin, potřeba přepnout na PL jazyk). Moje čeština: (Kompletní přeložená hra, není třeba přepínat jazyky, hra automaticky načte CZ jazyk)",
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/StrayCZ/Stray.zip"
   },
-   {
+  {
     "id": 10,
     "title": "Finding Frankie",
     "version": "0.1",
@@ -242,7 +242,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/FindingFrankieCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/FindingFrankieCZ/heroes.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/FindingFrankieCZ/logo.png",
-    "category": "#akční", "#horory",
+    "category": "#akční, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "88.7 KB", 
@@ -268,7 +268,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/UntoldCZ/icon.png",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/UntoldCZ/heroes.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/UntoldCZ/logo.png",
-    "category": "#akční", "#horory",
+    "category": "#akční, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "2.4 MB", 
@@ -294,7 +294,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TheOccultistCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TheOccultistCZ/heroes.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TheOccultistCZ/logo.png",
-    "category": "#akční", "#horory",
+    "category": "#akční, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "1.64 MB", 
@@ -312,7 +312,7 @@
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TheOccultistCZ/The.Occultist.zip"
   },
   {
-  "id": 13,
+    "id": 13,
     "title": "Amanda the Adventurer 1-3",
     "version": "0.1",
     "status": "Hotovo",
@@ -320,7 +320,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/AmandatheAdventurerCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/AmandatheAdventurerCZ/heroes.png",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/AmandatheAdventurerCZ/logo.png",
-    "category": "#akční", "#horory",
+    "category": "#akční, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "3.47 MB", 
@@ -334,11 +334,11 @@
       "textures": 100
     },
     "description": "Amanda the Adventurer je nezávislá hororová hra z pohledu první osoby, která se tváří jako nevinný dětský pořad z 90. let, ale ve skutečnosti skrývá temné a znepokojivé tajemství.",
-    "aboutTranslation": "Češtinu si stáhněte na plochu. V .zipu jsou více souboru pro každý díl. Po rozbalení zipu, postupujte podle návodu v .txt souboru.",
+    "aboutTranslation": "Češtinu si stáhněte na plochu. V .zipu jsou více souborů pro každý díl. Po rozbalení zipu postupujte podle návodu v .txt souboru.",
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/AmandatheAdventurerCZ/Amanda.the.Adventurer.zip"
   },
   {
-  "id": 14,
+    "id": 14,
     "title": "Subliminal",
     "version": "0.1",
     "status": "Hotovo",
@@ -346,7 +346,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SubliminalCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SubliminalCZ/heroes.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SubliminalCZ/logo.png",
-    "category": "#akční", "#horory",
+    "category": "#akční, #horory",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "13.7 MB", 
@@ -364,7 +364,7 @@
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/SubliminalCZ/Subliminal.zip"
   },
   {
-  "id": 15,
+    "id": 15,
     "title": "SpongeBob SquarePants: Titans of the Tide",
     "version": "1.1",
     "status": "Hotovo",
@@ -372,7 +372,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TOTDCZ/icon.png",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TOTDCZ/heroes.jpg",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TOTDCZ/logo.png",
-    "category": "#adventury", "#dobrodružné",
+    "category": "#adventury, #dobrodružné",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "1.68 MB", 
@@ -390,15 +390,15 @@
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/TOTDCZ/SpongeBob.SquarePants.Titans.of.the.Tide.zip"
   },
   {
-  "id": 16,
-    "title": "SpongeBob SquarePants: Titans of the Tide",
+    "id": 16,
+    "title": "Darwin's Paradox",
     "version": "1.0",
     "status": "Hotovo",
     "progress": 100,
-    "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/icon.jpg",
-    "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/heroes.jpg",
-    "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/logo.png",
-    "category": "#adventury", "#logické",
+    "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinsParadoxCZ/icon.jpg",
+    "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinsParadoxCZ/heroes.jpg",
+    "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinsParadoxCZ/logo.png",
+    "category": "#adventury, #logické",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "16.8 MB", 
@@ -413,10 +413,10 @@
     },
     "description": "Darwin's Paradox! je filmová akční adventura, ve které hrajete za Darwina, geniální chobotnici unesenou z oceánu do tajemného industriálního komplexu.",
     "aboutTranslation": "Kompletní česká lokalizace.",
-    "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/Darwin'sParadox!CZ/DarwinParadox.zip"
+    "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/DarwinsParadoxCZ/DarwinParadox.zip"
   },
   {
-  "id": 17,
+    "id": 17,
     "title": "Poppy Playtime 1-5",
     "version": "1.7",
     "status": "Hotovo",
@@ -424,7 +424,7 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/PoppyPlaytimeCZ/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/PoppyPlaytimeCZ/heroes.png",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/PoppyPlaytimeCZ/logo.png",
-    "category": "#horory", "#dobrodružné",
+    "category": "#horory, #dobrodružné",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "178 MB", 
@@ -438,11 +438,11 @@
       "textures": 100
     },
     "description": "Poppy Playtime je hororová videohra. Hráč je bývalý zaměstnanec. Cílem je prozkoumat opuštěnou továrnu na hračky společnosti Playtime Co.",
-    "aboutTranslation": "Češtinu si stáhněte na plochu. V .zipu jsou více souboru pro každý díl. Po rozbalení zipu, postupujte podle návodu v .txt souboru.",
+    "aboutTranslation": "Češtinu si stáhněte na plochu. V .zipu jsou více souborů pro každý díl. Po rozbalení zipu postupujte podle návodu v .txt souboru.",
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/PoppyPlaytimeCZ/Poppy.Playtime.zip"
   },
   {
-  "id": 18,
+    "id": 18,
     "title": "Indigo Park",
     "version": "1.0",
     "status": "Hotovo",
@@ -450,13 +450,13 @@
     "thumbUrl": "https://github.com/raprun99/dickzilla-api/releases/download/%C4%8De%C5%A1tina/icon.jpg",
     "bannerUrl": "https://github.com/raprun99/dickzilla-api/releases/download/%C4%8De%C5%A1tina/header.png",
     "logoUrl": "https://github.com/raprun99/dickzilla-api/releases/download/%C4%8De%C5%A1tina/logo.png",
-    "category": "#horory", "#dobrodružné",
+    "category": "#horory, #dobrodružné",
     "author": "DickzillaTranslator",
     "platform": "Steam",
     "size": "178 MB", 
     "downloads": "0",
-    "created": "02. sprna 2026",
-    "updated": "02. sprna 2026",
+    "created": "02. srpna 2026",
+    "updated": "02. srpna 2026",
     "translationProgress": {
       "text": 100,
       "editing": 100,
@@ -468,5 +468,3 @@
     "zipUrl": "https://github.com/raprun99/dickzilla-api/releases/download/%C4%8De%C5%A1tina/Indigo.Park.zip"
   }
 ]
-
-
